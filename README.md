@@ -14,13 +14,13 @@ A JavaFX-based implementation of the classic Hangman game. Includes a GUI, custo
 ## 📸 Screenshots
 
 ### Game Start
-![Start](src/main/resources/hangman_game/screenshots/initial_screen.png)
+![Start](screenshots/initial_screen.png)
 
 ### Game Over
-![Lose](src/main/resources/hangman_game/screenshots/game_over.png)
+![Lose](screenshots/game_over.png)
 
 ### Game Won
-![Win](src/main/resources/hangman_game/screenshots/game_won.png)
+![Win](screenshots/game_won.png)
 
 ## 🛠️ How to Run
 
