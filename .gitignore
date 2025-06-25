@@ -1,3 +1,4 @@
+
 # Maven
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -27,18 +28,18 @@ Thumbs.db
 .sts4-cache/
 
 # NetBeans
-nbproject/private/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
 build/
 
-# JavaFX-specific
+# JavaFX-specific (optional)
 hs_err_pid*
 
-# Screenshot images (ignored from repo)
+# Screenshots or generated images (if you want to exclude these from Git)
 src/main/resources/hangman_game/screenshots/
 
-# Mac OS (redundant but commonly added)
+# macOS
 .DS_Store
